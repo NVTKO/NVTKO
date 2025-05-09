@@ -30,4 +30,4 @@ I'm a Firefighter/Paramedic and automation developer with a passion for solving 
 
 ---
 
-🧼 *Always improving, always automating.*## Hi there 👋
+🧼 *Always improving, always automating.
