@@ -20,7 +20,7 @@ I'm a Firefighter/Paramedic and automation developer with a passion for solving 
 
 - **[Discord_OpenAI_Bot](https://github.com/NVTKO/Discord_Bot_OpenAI)** – Discord bot with OpenAI integration that answers questions in the style of Bill Burr, Tom Segura, and Dave Chappelle  
 - *(Coming soon for public release)* **[IAFF Union Agentic Bot](https://github.com/yourusername/IAFF-bot)** – In Progress · Private · Experimental — An OpenAI-powered assistant for union leadership tasks  
-- *(Coming soon for public release)* **[Agentic Bot Framework](https://github.com/yourusername/agentic-bot-framework)** – In Progress · Private · Experimental — Framework for building self-operating bots using OpenAI, ChromaDB, Supabase, and Playwright  
+- *(Coming soon for public release)* **[Agentic Bot Framework](https://github.com/NVTKO/Agentic-Bot-Framework)** – Private · Experimental — Framework for building self-operating bots using OpenAI, ChromaDB, Supabase, and Playwright  
 
 
 ##  Let’s Connect
